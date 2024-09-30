@@ -14,6 +14,7 @@ Welcome to the NIH Library's Generative AI Usage Toolkit, a comprehensive guide 
 8. [Attribution Requirement Checklist](attribution-requirement-checklist.md)
 9. [Drafting an Attribution Statement](drafting-attribution-statement.md)
 10. [Disclaimer](disclaimer.md)
+11. [Customizing the Toolkit](customizing-toolkit.md)
 
 ## Public Domain Notice
 This work is in the public domain within the United States because it was authored by a U.S. government employee as part of their official duties. You are free to copy, modify, distribute, and use this work without restriction.
